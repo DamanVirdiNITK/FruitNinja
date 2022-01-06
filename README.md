@@ -1,1 +1,2 @@
 # FruitNinja
+python based application
